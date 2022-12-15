@@ -100,7 +100,7 @@ class MainActivity : ComponentActivity() {
     @SuppressLint("SetJavaScriptEnabled")
     @Composable
     fun Magazine() {
-        val url = "https://oracle-static.vercel.app"
+        val url = "https://genziusss.vercel.app/"
 
         AndroidView(factory = {
             WebView(it).apply {
